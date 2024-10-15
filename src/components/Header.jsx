@@ -22,7 +22,7 @@ function Header() {
                     <a href="https://www.linkedin.com/in/muhammadalvinsidiq/" target="_blank" rel="noopener noreferrer">
                 <BsLinkedin />
                      </a>
-                     <a href="https://www.linkedin.com/in/muhammadalvinsidiq/" target="_blank" rel="noopener noreferrer">
+                     <a href="https://github.com/alvinsidiq" target="_blank" rel="noopener noreferrer">
                 <FaGithub />
                      </a>
                 </div>
